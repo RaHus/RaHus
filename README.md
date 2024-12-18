@@ -23,9 +23,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 📫 How to reach me
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [RaHus](https://www.linkedin.com/in/your-profile/)
-- **Twitter**: [@RaHus](https://twitter.com/your-profile)
+- **LinkedIn**: [RaHus](https://www.linkedin.com/in/rami-c-0b917a124/)
 
 ## 🏅 Achievements
 
