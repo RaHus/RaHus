@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - **Learning**: Exploring new programming languages and frameworks.
 - **DevOps**: Automating infrastructure and deployment pipelines.
 - **Web Development**: Enhancing my skills in front-end and back-end development.
-- 
+
 ## 🌱 What I'm learning
 
 - **Machine Learning**: Diving into the world of AI and machine learning.
