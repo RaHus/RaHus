@@ -1,4 +1,4 @@
-# Hi there, I'm RaHus! 👋
+# Hi there, I'm Rami! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in various programming languages and technologies. Here you'll find a collection of my projects, contributions, and experiments.
 
